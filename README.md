@@ -131,8 +131,7 @@ The project includes charts for:
 ├
 │    Task.ipynb
 │
-├── charts/
-│   └── generated_visualizations
+├
 │
 ├── README.md
 └── requirements.txt
